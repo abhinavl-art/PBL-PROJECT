@@ -1,4 +1,4 @@
-S NO.	Age	Gender	Income	Employment	LoanAmount	LoanTerm	InterestRate	CreditScore	DTI	PastDefaults	NumLoans	Savings	EMI	Default
+S NO.,	Age,	Gender,	Income,	Employment,	LoanAmount,	LoanTerm,	InterestRate,	CreditScore,	DTI,	PastDefaults,	NumLoans,	Savings,	EMI,	Default
 1	25	Male	300000	Salaried	100000	24	10.5	720	0.25	0	1	50000	4600	0
 2	40	Female	800000	Self-employed	300000	36	12.2	680	0.35	1	2	150000	10000	0
 3	35	Male	500000	Salaried	200000	48	11	590	0.45	2	3	80000	6000	1
